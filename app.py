@@ -7,7 +7,7 @@ DATA = {
     "name": "Narayana Namburi",
     "email": "narayananamburi111@gmail.com",
     "phone": "+91 6309559251",
-    "linkedin": "https://www.linkedin.com/in/narayananamburi/",
+    "linkedin": "https://www.linkedin.com/in/narayana-namburi",
     "location": "Bangalore, India",
     "stats": [
         {"value": "3+", "label": "Years Experience"},
